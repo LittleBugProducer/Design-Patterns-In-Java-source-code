@@ -3,7 +3,6 @@ package com.chen4du.chap5.demo1;
 import java.util.List;
 
 //抽象构建类
-
 public abstract class Component {
 	public abstract void printStruct(String preStr);
 	
