@@ -7,7 +7,4 @@ public class Test {
 		System.out.println(in.getStr());
 		System.out.println(in.getNum());
 	}
-	
-	
-	
 }
