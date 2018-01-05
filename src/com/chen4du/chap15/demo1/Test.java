@@ -1,5 +1,6 @@
-package com.chen4du.chap14.demo1;
+package com.chen4du.chap15.demo1;
 
+//测试类
 public class Test {
 
 	public static void main(String[] args) {

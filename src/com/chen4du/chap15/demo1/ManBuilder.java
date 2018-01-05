@@ -1,4 +1,4 @@
-package com.chen4du.chap14.demo1;
+package com.chen4du.chap15.demo1;
 
 //Builder
 public class ManBuilder {

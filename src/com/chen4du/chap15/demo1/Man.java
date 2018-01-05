@@ -1,7 +1,7 @@
-package com.chen4du.chap14.demo;
+package com.chen4du.chap15.demo1;
 
 //Product
-public class Person {
+public class Man {
 
 	private String head;
 	private String body;
@@ -26,7 +26,7 @@ public class Person {
 	}
 	@Override
 	public String toString() {
-		return "Person [head=" + head + ", body=" + body + ", foot=" + foot + "]";
+		return "Man [head=" + head + ", body=" + body + ", foot=" + foot + "]";
 	}
 	
 	

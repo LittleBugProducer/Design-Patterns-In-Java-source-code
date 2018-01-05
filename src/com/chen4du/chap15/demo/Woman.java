@@ -1,4 +1,4 @@
-package com.chen4du.chap14.demo;
+package com.chen4du.chap15.demo;
 
 //女Product
 public class Woman extends Person{

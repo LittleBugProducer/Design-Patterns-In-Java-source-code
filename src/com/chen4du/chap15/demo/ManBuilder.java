@@ -1,4 +1,4 @@
-package com.chen4du.chap14.demo;
+package com.chen4du.chap15.demo;
 
 //具体角色
 public class ManBuilder implements Builder{
